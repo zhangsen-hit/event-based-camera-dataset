@@ -78,4 +78,5 @@
 ## Related Links
 [Teams and researchers in China](https://github.com/LarryDong/EventCameraGroupsCN) <br>
 [Event-based Resources](https://github.com/uzh-rpg/event-based_vision_resources) <br>
-[Event-SLAM Hong Kong University](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)
+[Event-SLAM Hong Kong University](https://github.com/arclab-hku/Event_based_VO-VIO-SLAM)<br>
+[PRG Event based camera research](http://users.umiacs.umd.edu/~fer/dvs.html#)
