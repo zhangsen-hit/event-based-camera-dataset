@@ -79,7 +79,8 @@
 
 ## Some simulations tools
 [ESIM](https://github.com/uzh-rpg/rpg_esim) <br>
-[Carla](https://github.com/carla-simulator/carla/discussions/4634)
+[Carla](https://github.com/carla-simulator/carla/discussions/4634) <br>
+[Video to Events](https://github.com/uzh-rpg/rpg_vid2e)
 
 ## Related Links
 [Teams and researchers in China](https://github.com/LarryDong/EventCameraGroupsCN) <br>
